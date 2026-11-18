@@ -40,7 +40,7 @@ SHEET_CONFIG = {
         "header_row": 0
     },
     "ProfesoresCV": {
-        "gid": 1072759729,
+        "gid": 669197974,
         "pk_columns": ["email"],
         "header_row": 0
     },
